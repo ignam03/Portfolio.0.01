@@ -812,7 +812,10 @@ h3.my-profession
     width: 100%;
     display: block;
 }
+.portfolio .portfolio-heading .text-projects h2 {
+    margin-top: 152px;
 
+}
 /* Contac */
 
 .contact-title
